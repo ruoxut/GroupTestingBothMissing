@@ -13,7 +13,7 @@ To reproduce the simulation, run
 
 5, Simulation.m for models (iii) and (iv) with \hat{p}_{MLE,2}^{LOG}, \hat{p}_{MLE,2}^{MISP} and \hat{p}_{MLE,2}^{IGN};
 
-6, Simulation_ungr.m for models (iii) and (iv) with \hat{p}_{UMLE}$
+6, Simulation_ungr.m for models (iii) and (iv) with \hat{p}_{UMLE};
 
 7, Simulation_tilde_v.m for model (v) with \hat{p}_{MLE,1}^{LOG}, \hat{p}_{MLE,1}^{MISP} and \hat{p}_{MLE,1}^{IGN};
 
