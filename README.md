@@ -3,7 +3,7 @@ Simulation code for Delaigle, A. and Tan, R. (2022+). Group testing regression a
 
 To reproduce the simulation, run
 
-1, Simulation_tilde_1D.m for models (i) and (ii) with $\hat{p}_{MLE,1}^{LOG}$, $\hat{p}_{MLE,1}^{MISP}$ and $\hat{p}_{MLE,1}^{IGN}$;
+1, Simulation_tilde_1D.m for models (i) and (ii) with $ \hat{p}_{MLE,1}^{LOG} $, $ \hat{p}_{MLE,1}^{MISP} $ and $\hat{p}_{MLE,1}^{IGN}$;
 
 2, Simulation_1D.m for models (i) and (ii) with $\hat{p}_{MLE,2}^{LOG}$, $\hat{p}_{MLE,2}^{MISP}$ and $\hat{p}_{MLE,2}^{IGN}$;
 
