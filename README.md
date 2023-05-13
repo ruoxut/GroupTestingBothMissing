@@ -1,5 +1,5 @@
 # GroupTestingBothMissing
-Simulation code for Delaigle, A. and Tan, R. (2022+). Group testing regression analysis with covariates  and specimens subject to missingness. Statistics in Medicine.
+Simulation code for Delaigle, A. and Tan, R. (2023). Group testing regression analysis with covariates  and specimens subject to missingness. Statistics in Medicine. 42(6), 731-744.
 
 To reproduce the simulation, run
 
